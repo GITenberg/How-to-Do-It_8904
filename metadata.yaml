@@ -1,0 +1,28 @@
+_repo: How-to-Do-It_8904
+creator:
+  author:
+    agent_name: Hale, Edward Everett
+    aliases:
+    - Darragh, J. Thomas
+    - Ingham, Frederic
+    - Hale, E. E. (Edward Everett)
+    - Hale, Edward E.
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Self-culture'
+- !lcc 'BJ'
+title: How to Do It
+url: http://www.gutenberg.org/ebooks/8904
